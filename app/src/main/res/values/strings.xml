@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cook Mate</string>
+    <string name="order">Рецепты</string>
+    <string name="action_share">Share</string>
+    <string name="logo">logo</string>
+    <string name="select_ingredients">Выберите используемые ингридиенты:</string>
+
+    <string name="restaurant_image">Restaurant image</string>
+</resources>
